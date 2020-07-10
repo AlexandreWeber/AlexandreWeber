@@ -1,9 +1,13 @@
-### Hi there 👋👋👋
+### Hi there 👋
 
-### Welcome to my profile!
+**About me** 
 
-- My name is Alexandre Weber Dalabona I'm from Brazil and live in Joinville, a city in south of Brazil! :)
+My name is Alexandre Weber Dalabona I'm from Brazil and live in Joinville, a city in south of Brazil! :)
+
+**Working**
 - I have more than 9 years of experience with software development, specially with ERP systems like TOTVS Datasul and Oracle Netsuite 
+
+**Education**
 - I'm bachelor in Information System, postgraduate in Softwar Engineer and currently taking postgraduate course in Web Full Stack Development.
 
 
